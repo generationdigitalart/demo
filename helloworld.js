@@ -15,5 +15,5 @@ function setup() {
     let r = DIM/2 - 50*M;
     ellipse(0,0,r*2);
     let a = radians(random(110,130));
-    ellipse(sin(a)*r, cos(a)*r, r/2);
+    ellipse(sin(a)*r, cos(a)*r, r/4);
 }
