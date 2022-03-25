@@ -5,7 +5,7 @@ var DIM = Math.min(WIDTH, HEIGHT);
 var M = DIM / DEFAULT_SIZE;
 const generationMetadata = {
     "name":"Aaron's Sketch",
-    "description":"A simple moon"
+    "description":"A simple moon taht I helped make"
 }
 
 function setup() {
